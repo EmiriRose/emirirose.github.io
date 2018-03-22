@@ -5,6 +5,12 @@
 	margin: 0;
 	padding: 0;
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
 
 body {
 	background-color: #1c1c1c;
@@ -50,6 +56,8 @@ ul li a:hover {
 }
 
 h1 {
+	color:white;
+	font-size: 75px;
 	text-align: center;
 	padding: 30px;
 	font-family: 'Press Start 2P', cursive;
@@ -62,16 +70,41 @@ h1 {
 h2 {
 	color: #68357f; 
 	font-style: italic;
-	font-size: 14px;
-	padding-left: 50px;
+	font-size: 20px;
+	padding-left: 175px;
+	padding-right: 100px;
+	padding-top: 50px;
 	}
 
-#sketch {
-	border:none;
-	width: 100vw;
-	height: 50vh;
+h3{
+	color: white;
+	padding-left: 50px;
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	line-height: 25px;
+	border: 1px solid;
+	border-width: 5px;
+	border-color: white;
+	margin:30px;
+	border-radius: 30px;
 }
 
-#overwrite{
-	color: navy;
+#glitch{
+	margin-left: 500px;
 }
+
+p{
+	color: white;
+	padding-left: 50px;
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-bottom: 25px;
+	line-height: 25px;
+	text-align: center;
+}
+
+#Ghostie{
+	margin-left: 850px;
+}
+
