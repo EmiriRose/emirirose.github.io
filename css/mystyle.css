@@ -116,3 +116,18 @@ p{
 	padding-bottom: 20px;
 
 }
+a{
+	color: white;
+	color: white;
+	padding-left: 50px;
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-bottom: 25px;
+	line-height: 25px;
+	text-align: center;
+}
+
+a:hover {
+	color:#68357f;
+	font-weight: bold; 
+}
