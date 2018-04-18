@@ -14,7 +14,6 @@
 
 body {
 	background-image: "images/stars.gif";
-	background-color: #1c1c1c;
 	max-width: 100%;
 	font-family: 'Press Start 2P', cursive;
 }
@@ -114,7 +113,7 @@ a{
 	color: white;
 	padding-left: 100px;
 	padding-top: 50px;
-	padding-right: 50px;
+	padding-right: 100px;
 	padding-bottom: 25px;
 	line-height: 25px;
 	text-align: center;
