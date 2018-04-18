@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	
+	<link rel="stylesheet" type="text/css" href="css/netart.css">
+</head>
+
+<body>
+	<h3>You grab the object and you notice it is a radio, it looks very old, it is probably for emergencies. It is slightly damaged but it looks like it might still work. You frantically turn it on but you only hear static. Should you keep the radio or leave it?</h3>
+<ul>
+	<li><a href="fivethree.html">Keep it?</a></li>
+	<li><a href="fivefour.html">Leave it?</a></li>
+</ul>
+<img src="images/inside.gif" alt="control panel" id="inside">
+</body>
+</html>
