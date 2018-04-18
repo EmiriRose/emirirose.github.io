@@ -44,7 +44,6 @@ ul{
 ul li {
 	float: left;
 	list-style-type: none;
-	padding-left: 60px;
 }
 ul li a {
 	color: silver;
@@ -133,5 +132,6 @@ a:hover {
 #inside{
 	height: 400px;
 	width:400px;
+	padding-left: 500px;
 	
 }
