@@ -13,7 +13,7 @@
 }
 
 body {
-	background-image: "images/stars.gif";
+	background-image: none;
 	background-color: #1c1c1c;
 	max-width: 100%;
 	font-family: 'Press Start 2P', cursive;
