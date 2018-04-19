@@ -133,5 +133,16 @@ a:hover {
 	height: 400px;
 	width:400px;
 	padding-left: 500px;
+	margin-bottom: 50px;
 	
+}
+#arin{
+	height: 400px;
+	width: 400px;
+	margin-left: 400px;
+}
+#danny{
+	margin-bottom: 50px;
+	height: 200px;
+	width: 200px;
 }
