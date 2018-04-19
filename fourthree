@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	
+	<link rel="stylesheet" type="text/css" href="css/netart.css">
+</head>
+
+<body>
+	<h3>YYou decide to leave the object on the ground as it is probably nothing that can help you fix your control panel. After 10 minutes of struggling to repair it, you admit defeat and move on. Do you go outside or look inside somemore?</h3>
+<ul>
+	<li><a href="fivefive.html">Outside?</a></li>
+	<li><a href="threefour.html">Look Around?</a></li>
+</ul>
+<img src="images/inside.gif" alt="control panel" id="inside">
+</body>
+</html>
