@@ -8,7 +8,7 @@ function setup() {
   createCanvas(windowWidth,windowHeight);
   strokeWeight(4);
    circleX=0;
-background(0);
+background(28,28,28);
 }
  	
 function draw() {
