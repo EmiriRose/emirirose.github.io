@@ -4,8 +4,8 @@ var y = 400;
 
 function setup() {
  function windowResized() {
- 	resizeCanvas(windowWidth, windowHeight);}
-  createCanvas(windowWidth,windowHeight);
+ 	resizeCanvas(windowWidth-20,600);}
+  createCanvas(windowWidth-20,600);
   strokeWeight(4);
    circleX=0;
 background(28,28,28);
